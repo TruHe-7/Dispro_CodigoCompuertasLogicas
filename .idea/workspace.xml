@@ -14,7 +14,9 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Dispro" targetName="Dispro" />
+      <config projectName="Dispro" targetName="Punto14" />
+      <config projectName="Dispro" targetName="Diagrama_Version2" />
+      <config projectName="Dispro" targetName="Punto15" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -23,50 +25,21 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2419d97-5d83-4a2f-a7e5-c2f904d40d06" name="Changes" comment="">
+    <list default="true" id="a2419d97-5d83-4a2f-a7e5-c2f904d40d06" name="Changes" comment="Ya funciona perfecto.">
+      <change afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X-Punto14/Diagrama De Tiempo Punto14.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X-Punto15/Diagrama De Tiempo Punto15.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Diagrama De Tiempo.c" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Diagrama De Tiempo.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.h" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-bd1a983db54eac4717c3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b945320cdce2831d43fe.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-70a1b714bf692cbca265.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-02-20T23-51-31-0637.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Dispro-Debug-bb64c94fe1261dced6e2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-43ebef78a9cb2479a949.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/LogicGates.h" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/LogicGates.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Diagrama De Tiempo.c" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Diagrama de Tiempo V2/Diagrama De Tiempo V2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.1.2/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/AND_gate.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Clocks.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_De_Tiempo.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/FlipFlop_gate.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/XOR_gate.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/InstallScripts.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/InstallScripts.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Dispro.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +66,12 @@
     "accountId": "acaf8c0e-3898-4575-b9f1-fe88eec98bcf"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/Clocks.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/LogicGates.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="XPxH4YA8" />
   </component>
@@ -113,6 +92,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "CMake Application.Dispro.executor": "Run",
+    "CMake Application.Punto14.executor": "Run",
+    "CMake Application.Punto15.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -124,17 +105,38 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/juanandress/Desktop/Dispro/CMakeLists.txt",
+    "last_opened_file_path": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Diagrama de Tiempo V2",
     "org.rust.first.attach.projects": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Dispro" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dispro" TARGET_NAME="Dispro" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Dispro" RUN_TARGET_NAME="Dispro">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/Diagrama de Tiempo V2" />
+      <recent name="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X-Punto15" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo" />
+      <recent name="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X-Punto14" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Punto15">
+    <configuration name="Diagrama_Version2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dispro" TARGET_NAME="Diagrama_Version2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Dispro" RUN_TARGET_NAME="Diagrama_Version2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Punto14" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dispro" TARGET_NAME="Punto14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Dispro" RUN_TARGET_NAME="Punto14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Punto15" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dispro" TARGET_NAME="Punto15" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Dispro" RUN_TARGET_NAME="Punto15">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -144,6 +146,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.Diagrama_Version2" />
+      <item itemvalue="CMake Application.Punto14" />
+      <item itemvalue="CMake Application.Punto15" />
+    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -152,8 +159,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770783682780</updated>
-      <workItem from="1771646770879" duration="2427000" />
+      <workItem from="1771646770879" duration="6465000" />
     </task>
+    <task id="LOCAL-00001" summary="Ya funciona perfecto.">
+      <option name="closed" value="true" />
+      <created>1771649226453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771649226453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ya funciona perfecto.">
+      <option name="closed" value="true" />
+      <created>1771649234381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771649234381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +187,9 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ya funciona perfecto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ya funciona perfecto." />
   </component>
 </project>

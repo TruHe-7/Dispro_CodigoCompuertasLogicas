@@ -4,6 +4,7 @@
 //Firma  de compuertas logicas.
 int AND_Gate(int A, int B);
 int XOR_Gate(int A, int B);
+int OR_Gate(int A, int B);
 
 
 //Flip Flops
