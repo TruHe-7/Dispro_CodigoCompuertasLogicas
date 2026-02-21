@@ -1,0 +1,21 @@
+# ninja log v6
+26	173	7933301499259083	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/XOR_gate.c.obj	e1ea9ca1f3e40cfd
+13	175	7933301499131477	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/AND_gate.c.obj	a2649fa4e179e9d4
+4	117	7933334215651423	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_De_Tiempo.c.obj	12c243857327c6c8
+49	202	7933301499489246	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Clocks.c.obj	ef53365d938ff2e5
+37	203	7933301499371896	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/FlipFlop_gate.c.obj	5134d25c57a73514
+118	253	7933334216792289	Dispro.exe	4539436f0dfd216c
+17	186	7933348053627612	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.obj	b202ce4e34e3daa6
+33	191	7933348053783234	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.obj	d7834878eac5fc5e
+62	216	7933348054072359	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.obj	eea87acbb0be39e7
+6	227	7933348053515853	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_De_Tiempo.c.obj	12c243857327c6c8
+3	105	7933348576148753	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.obj	7231312e962fc09d
+3	106	7933349181757645	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_De_Tiempo.c.obj	12c243857327c6c8
+4	121	7933350342838004	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_De_Tiempo.c.obj	12c243857327c6c8
+13	123	7933350342933250	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.obj	b405bd82ef326039
+4	148	7933352409031303	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.obj	b405bd82ef326039
+8	235	7933352542387576	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_De_Tiempo.c.obj	12c243857327c6c8
+28	245	7933352542578116	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.obj	b405bd82ef326039
+246	552	7933352544755135	Dispro.exe	eaefa5dfba761000
+7	125	7933355114226954	CMakeFiles/Dispro.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_De_Tiempo.c.obj	12c243857327c6c8
+126	270	7933355115414540	Dispro.exe	eaefa5dfba761000
