@@ -1,5 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
+
 #include "FormatoWaveDrom.h"
+
 
 void print_wave(const char *signal_name,const int max,const int *signal_values,int is_last_signal){
     printf("  { \"name\": \"%s\", \"wave\": \"", signal_name);
@@ -37,4 +40,16 @@ void print_clock(const char *name,const int max, int is_last) {
     printf("  { \"name\": \"%s\", \"wave\": \"P", name);
     for (int i = 1; i < max; i++) printf(".");
     printf("\" }%s\n", is_last ? "" : ",");
+}
+
+void find_replace(const int *input_values,int input_size,int *output_values)
+{
+    int reduced_length = input_size / 2;
+
+    for (int pair_index = 0; pair_index < reduced_length; pair_index++) {
+        // 00 -> 0
+        // 11 -> 1
+        // Basta tomar el primer valor del par
+        output_values[pair_index] = input_values[2 * pair_index];
+    }
 }

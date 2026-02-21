@@ -10,5 +10,6 @@ void print_wave(const char *signal_name,const int max,const int *signal_values,i
 
 void print_clock(const char *name,const int max, int is_last);
 
+void find_replace(const int *input_values, int input_size, int *output_size);
 
 #endif //DISPRO_FORMATOWAVEDROM_H

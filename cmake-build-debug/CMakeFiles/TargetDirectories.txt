@@ -1,3 +1,3 @@
-C:/Users/Juan Andres Sanchez/Desktop/Dispro/cmake-build-debug/CMakeFiles/Dispro.dir
-C:/Users/Juan Andres Sanchez/Desktop/Dispro/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Juan Andres Sanchez/Desktop/Dispro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Dispro.dir
+/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
