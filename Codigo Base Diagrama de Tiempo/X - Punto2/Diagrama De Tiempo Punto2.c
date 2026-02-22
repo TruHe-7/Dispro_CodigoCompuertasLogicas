@@ -102,11 +102,14 @@ int main(void) {
     find_replace(q1,     MAX_TIEMPO, Q1_red);
     find_replace(q2,     MAX_TIEMPO, Q2_red);
     find_replace(q3,     MAX_TIEMPO, Q3_red);
-    find_replace(q3,     MAX_TIEMPO, Q3_red);
     find_replace(d1,     MAX_TIEMPO, d1_red);
     //find_replace(ena,    MAX_TIEMPO, ena_red);
 
     find_replace(cnt,    MAX_TIEMPO, cnt_red);
+
+    char DecCNT[REDUCED_SIZE][3];
+
+    counter_to_decimal(cnt_red, REDUCED_SIZE, DecCNT);
 
     /* ================== WaveDrom JSON ================== */
     printf("{ \"signal\": [\n");
@@ -125,7 +128,8 @@ int main(void) {
     //print_wave("ENA", REDUCED_SIZE, ena_red, 0);
 
     // Bus CNT en hexadecimal (WaveDrom bus con data)
-    print_bus_hex("CNT", REDUCED_SIZE, HexCNT, 1);
+    print_bus_hex("CNT", REDUCED_SIZE, HexCNT, 0);
+    print_bus_hex("Decimal", REDUCED_SIZE, DecCNT, 1);
 
     printf("] }\n");
 

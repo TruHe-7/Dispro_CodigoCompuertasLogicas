@@ -86,3 +86,9 @@ void print_bus_hex(const char *name, int size, char hexData[][3], int is_last)
 
     printf("] }%s\n", is_last ? "" : ",");
 }
+
+void counter_to_decimal(int *cnt_array, int size, char dec_array[][3]) {
+    for (int i = 0; i < size; i++) {
+        snprintf(dec_array[i], 3, "%d", cnt_array[i]);
+    }
+}

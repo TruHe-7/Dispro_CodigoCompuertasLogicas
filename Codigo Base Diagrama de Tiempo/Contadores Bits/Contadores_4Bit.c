@@ -1,4 +1,5 @@
 #include "Contadores_Bits.h"
+#include "stdio.h"
 
 void counter_4Bits(int *Q,int clk_prev,int clk_now,int clr_n,int ena){
     // Clear asíncrono
@@ -14,3 +15,4 @@ void counter_4Bits(int *Q,int clk_prev,int clk_now,int clr_n,int ena){
         }
     }
 }
+
