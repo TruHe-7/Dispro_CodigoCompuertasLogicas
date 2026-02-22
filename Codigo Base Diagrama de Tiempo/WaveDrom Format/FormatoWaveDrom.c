@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <string.h>
 
 #include "FormatoWaveDrom.h"
 
@@ -52,4 +52,37 @@ void find_replace(const int *input_values,int input_size,int *output_values)
         // Basta tomar el primer valor del par
         output_values[pair_index] = input_values[2 * pair_index];
     }
+}
+
+void print_bus_hex(const char *name, int size, char hexData[][3], int is_last)
+{
+    printf("  { \"name\": \"%s\", \"wave\": \"", name);
+
+    // Construir wave
+    for (int t = 0; t < size; t++)
+    {
+        if (t == 0) putchar('=');
+        else
+        {
+            if (strncmp(hexData[t], hexData[t - 1], 2) == 0) putchar('.');
+            else putchar('=');
+        }
+    }
+
+    printf("\", \"data\": [");
+
+    // Imprimir data SOLO cuando la wave puso '='
+    int first = 1;
+    for (int t = 0; t < size; t++)
+    {
+        int emit = (t == 0) || (strncmp(hexData[t], hexData[t - 1], 2) != 0);
+        if (emit)
+        {
+            if (!first) printf(", ");
+            printf("\"%s\"", hexData[t]);
+            first = 0;
+        }
+    }
+
+    printf("] }%s\n", is_last ? "" : ",");
 }

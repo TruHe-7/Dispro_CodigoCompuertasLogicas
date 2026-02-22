@@ -43,6 +43,12 @@
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
   "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto14/Diagrama_De_Tiempo_Punto14.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto14/Diagrama De Tiempo Punto14.c\"",
   "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto14/Diagrama De Tiempo Punto14.c",
   "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto14/Diagrama_De_Tiempo_Punto14.c.o"
@@ -85,6 +91,12 @@
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
   "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto15/Diagrama_De_Tiempo_Punto15.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto15/Diagrama De Tiempo Punto15.c\"",
   "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto15/Diagrama De Tiempo Punto15.c",
   "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto15/Diagrama_De_Tiempo_Punto15.c.o"
@@ -124,5 +136,11 @@
   "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c\"",
   "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c",
   "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o"
 }
 ]

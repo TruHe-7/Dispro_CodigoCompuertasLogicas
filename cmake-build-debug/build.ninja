@@ -98,6 +98,13 @@ build CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas
   OBJECT_DIR = CMakeFiles/Diagrama_Version2.dir
   OBJECT_FILE_DIR = CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas
 
+build CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o: C_COMPILER__Diagrama_Version2_unscanned_Debug /Users/juanandress/Desktop/Dispro/Codigo$ Base$ Diagrama$ de$ Tiempo/CambiosDeBase/8Bus_Hexa.c || cmake_object_order_depends_target_Diagrama_Version2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Diagrama_Version2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Diagrama_Version2
@@ -106,7 +113,7 @@ build CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas
 #############################################
 # Link the executable Diagrama_Version2
 
-build Diagrama_Version2: C_EXECUTABLE_LINKER__Diagrama_Version2_Debug CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_de_Tiempo_V2/Diagrama_De_Tiempo_V2.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o
+build Diagrama_Version2: C_EXECUTABLE_LINKER__Diagrama_Version2_Debug CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Diagrama_de_Tiempo_V2/Diagrama_De_Tiempo_V2.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o
   CONFIG = Debug
   FLAGS = -g -arch arm64
   LINK_FLAGS = -Wl,-search_paths_first -Wl,-headerpad_max_install_names
@@ -174,6 +181,13 @@ build CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y
   OBJECT_DIR = CMakeFiles/Punto14.dir
   OBJECT_FILE_DIR = CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas
 
+build CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o: C_COMPILER__Punto14_unscanned_Debug /Users/juanandress/Desktop/Dispro/Codigo$ Base$ Diagrama$ de$ Tiempo/CambiosDeBase/8Bus_Hexa.c || cmake_object_order_depends_target_Punto14
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Punto14.dir
+  OBJECT_FILE_DIR = CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Punto14
@@ -182,7 +196,7 @@ build CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y
 #############################################
 # Link the executable Punto14
 
-build Punto14: C_EXECUTABLE_LINKER__Punto14_Debug CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto14/Diagrama_De_Tiempo_Punto14.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o
+build Punto14: C_EXECUTABLE_LINKER__Punto14_Debug CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto14/Diagrama_De_Tiempo_Punto14.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o
   CONFIG = Debug
   FLAGS = -g -arch arm64
   LINK_FLAGS = -Wl,-search_paths_first -Wl,-headerpad_max_install_names
@@ -250,6 +264,13 @@ build CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y
   OBJECT_DIR = CMakeFiles/Punto15.dir
   OBJECT_FILE_DIR = CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas
 
+build CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o: C_COMPILER__Punto15_unscanned_Debug /Users/juanandress/Desktop/Dispro/Codigo$ Base$ Diagrama$ de$ Tiempo/CambiosDeBase/8Bus_Hexa.c || cmake_object_order_depends_target_Punto15
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Punto15.dir
+  OBJECT_FILE_DIR = CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Punto15
@@ -258,7 +279,7 @@ build CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y
 #############################################
 # Link the executable Punto15
 
-build Punto15: C_EXECUTABLE_LINKER__Punto15_Debug CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto15/Diagrama_De_Tiempo_Punto15.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o
+build Punto15: C_EXECUTABLE_LINKER__Punto15_Debug CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto15/Diagrama_De_Tiempo_Punto15.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o
   CONFIG = Debug
   FLAGS = -g -arch arm64
   LINK_FLAGS = -Wl,-search_paths_first -Wl,-headerpad_max_install_names

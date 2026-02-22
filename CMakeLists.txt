@@ -13,6 +13,8 @@ set(COMMON_SOURCES
         "Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/Clocks.c"
         "Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c"
         "Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c"
+        "Codigo Base Diagrama de Tiempo/CambiosDeBase/CambioDeBases.h"
+        "Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c"
 )
 
 # ==========================

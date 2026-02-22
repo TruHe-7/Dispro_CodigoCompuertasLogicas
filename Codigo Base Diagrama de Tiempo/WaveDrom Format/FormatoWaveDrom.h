@@ -12,4 +12,6 @@ void print_clock(const char *name,const int max, int is_last);
 
 void find_replace(const int *input_values, int input_size, int *output_size);
 
+void print_bus_hex(const char *name, int size, char hexData[][3], int is_last);
+
 #endif //DISPRO_FORMATOWAVEDROM_H

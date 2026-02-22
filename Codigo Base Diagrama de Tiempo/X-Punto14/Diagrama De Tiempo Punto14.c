@@ -52,6 +52,15 @@ int main(void) {
     G[0] = XOR_Gate(Q0, QS);
     P[0] = AND_Gate(Q0, QS);
 
+    q0[1] = Q0;
+    q1[1] = Q1;
+    q2[1] = Q2;
+    q3[1] = Q3;
+    qs[1] = QS;
+
+    G[1] = XOR_Gate(Q0, QS);
+    P[1] = AND_Gate(Q0, QS);
+
     for (int i = 1; i < MAX_TIEMPO; i++) {
         def_flip_flop(&Q3, clk[i-1], clk[i], clr[i], 1, 1, G[i-1], &q3[i]);
         def_flip_flop(&Q2, clk[i-1], clk[i], clr[i], 1, 1, q3[i-1], &q2[i]);
