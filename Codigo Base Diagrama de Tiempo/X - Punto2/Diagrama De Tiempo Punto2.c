@@ -87,14 +87,10 @@ int main(void) {
     int Q3_red[REDUCED_SIZE];
     int d1_red[REDUCED_SIZE];
 
-    // CNT como entero por tiempo (0..15) y su hex
+    // Señales del contador y su representacion en HEX y Decimal
     int cnt_red[REDUCED_SIZE];
     char HexCNT[REDUCED_SIZE][3];
-
-    //Convertir Counter a HEX
-    for (int t = 0; t < REDUCED_SIZE; t++){
-        counter_to_hex2(cnt_red, t, HexCNT[t]);
-    }
+    char DecCNT[REDUCED_SIZE][3];
 
     // Reduce
     find_replace(clk,   MAX_TIEMPO, clk_red);
@@ -104,11 +100,14 @@ int main(void) {
     find_replace(q3,     MAX_TIEMPO, Q3_red);
     find_replace(d1,     MAX_TIEMPO, d1_red);
     //find_replace(ena,    MAX_TIEMPO, ena_red);
-
     find_replace(cnt,    MAX_TIEMPO, cnt_red);
 
-    char DecCNT[REDUCED_SIZE][3];
+    //Convertir Counter a HEX
+    for (int t = 0; t < REDUCED_SIZE; t++){
+        counter_to_hex2(cnt_red, t, HexCNT[t]);
+    }
 
+    //Convertir Counter a Decimal
     counter_to_decimal(cnt_red, REDUCED_SIZE, DecCNT);
 
     /* ================== WaveDrom JSON ================== */
