@@ -43,9 +43,21 @@
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
-  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c\"",
-  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c",
-  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o"
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Diagrama_Version2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o"
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
@@ -91,9 +103,21 @@
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
-  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c\"",
-  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c",
-  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o"
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto14.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o"
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
@@ -139,8 +163,140 @@
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
-  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c\"",
-  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c",
-  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase/8Bus_Hexa.c.o"
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto_3_1/Diagrama_De_Tiempo_Punto3.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto 3:1/Diagrama De Tiempo Punto3.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto 3:1/Diagrama De Tiempo Punto3.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto_3_1/Diagrama_De_Tiempo_Punto3.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/AND_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/AND_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/XOR_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/XOR_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/FlipFlop_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/FlipFlop_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/Clocks.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/Clocks.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2/Diagrama_De_Tiempo_Punto2.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2/Diagrama_De_Tiempo_Punto2.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/AND_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/AND_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/XOR_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/XOR_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/FlipFlop_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/FlipFlop_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/Clocks.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/Clocks.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o"
+},
+{
+  "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o"
 }
 ]

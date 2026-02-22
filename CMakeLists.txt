@@ -13,8 +13,11 @@ set(COMMON_SOURCES
         "Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/Clocks.c"
         "Codigo Base Diagrama de Tiempo/WaveDrom Format/FormatoWaveDrom.c"
         "Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/OR_gate.c"
-        "Codigo Base Diagrama de Tiempo/CambiosDeBase/CambioDeBases.h"
-        "Codigo Base Diagrama de Tiempo/CambiosDeBase/8Bus_Hexa.c"
+        "Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/CambioDeBases.h"
+        "Codigo Base Diagrama de Tiempo/CambiosDeBase_Bus/Bus_Hexa.c"
+        "Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_4Bit.c"
+        "Codigo Base Diagrama de Tiempo/Contadores Bits/Contadores_Bits.h"
+        "Codigo Base Diagrama de Tiempo/Compuertas Logicas Y Mas/NOT_gate.c"
 )
 
 # ==========================
@@ -38,5 +41,19 @@ add_executable(Punto14
 # ==========================
 add_executable(Punto15
         "Codigo Base Diagrama de Tiempo/X-Punto15/Diagrama De Tiempo Punto15.c"
+        ${COMMON_SOURCES}
+)
+
+
+# ==========================
+# Ejecutable Punto3
+# ==========================
+add_executable(Punto3
+        "Codigo Base Diagrama de Tiempo/X-Punto 3:1/Diagrama De Tiempo Punto3.c"
+        ${COMMON_SOURCES}
+)
+
+add_executable(Punto2
+        "Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c"
         ${COMMON_SOURCES}
 )

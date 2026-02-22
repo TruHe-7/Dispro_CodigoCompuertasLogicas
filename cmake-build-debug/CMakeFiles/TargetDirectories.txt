@@ -1,5 +1,7 @@
 /Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Diagrama_Version2.dir
 /Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto14.dir
 /Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto15.dir
+/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto3.dir
+/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir
 /Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

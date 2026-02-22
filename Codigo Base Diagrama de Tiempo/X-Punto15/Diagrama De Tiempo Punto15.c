@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include "../Compuertas Logicas Y Mas/LogicGates.h"
 #include "../WaveDrom Format/FormatoWaveDrom.h"
-#include "../CambiosDeBase/CambioDeBases.h"
+#include "../CambiosDeBase_Bus/CambioDeBases.h"
 
 #define MAX_TIEMPO 60
 
+//PARCIAL 4
 int main(void) {
 
     /* ================== SEÑALES ================== */

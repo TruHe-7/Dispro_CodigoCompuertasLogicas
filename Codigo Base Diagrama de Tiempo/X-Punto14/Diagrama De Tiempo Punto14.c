@@ -4,6 +4,8 @@
 
 #define MAX_TIEMPO 140
 
+
+//PARCIAL 3
 int main(void) {
 
     /* ================== SEÑALES ================== */
@@ -40,7 +42,7 @@ int main(void) {
         qs[i] = G[i] = P[i] = 0;
     }
 
-    int Q3 = 0, Q2 = 0, Q1 = 0, Q0 = 0;
+    int Q3 = 0, Q2 = 1, Q1 = 1, Q0 = 1;
     int QS = 1;
 
     q0[0] = Q0;
