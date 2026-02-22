@@ -27,8 +27,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2419d97-5d83-4a2f-a7e5-c2f904d40d06" name="Changes" comment="Ultimos cambios en el punto del parcial 2, para ver los numeros tambien en decimal">
-      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c" afterDir="false" />
+    <list default="true" id="a2419d97-5d83-4a2f-a7e5-c2f904d40d06" name="Changes" comment="Comentarios en el codigo.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X-Punto2/Diagrama De Tiempo Punto2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X-Punto 3:1/Diagrama De Tiempo Punto3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo Base Diagrama de Tiempo/X-Punto3:1/Diagrama De Tiempo Punto3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770783682780</updated>
-      <workItem from="1771646770879" duration="33564000" />
+      <workItem from="1771646770879" duration="36017000" />
     </task>
     <task id="LOCAL-00001" summary="Ya funciona perfecto.">
       <option name="closed" value="true" />
@@ -212,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771738258542</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Comentarios en el codigo.">
+      <option name="closed" value="true" />
+      <created>1771738451058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771738451058</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +245,7 @@
     <MESSAGE value="Ya funciona todo, punto 14 y 15" />
     <MESSAGE value="Solo falta el punto del parcial 1." />
     <MESSAGE value="Ultimos cambios en el punto del parcial 2, para ver los numeros tambien en decimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ultimos cambios en el punto del parcial 2, para ver los numeros tambien en decimal" />
+    <MESSAGE value="Comentarios en el codigo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Comentarios en el codigo." />
   </component>
 </project>

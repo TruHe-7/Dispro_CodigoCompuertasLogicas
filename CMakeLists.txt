@@ -49,11 +49,11 @@ add_executable(Punto15
 # Ejecutable Punto3
 # ==========================
 add_executable(Punto3
-        "Codigo Base Diagrama de Tiempo/X-Punto 3:1/Diagrama De Tiempo Punto3.c"
+        "Codigo Base Diagrama de Tiempo/X-Punto3/Diagrama De Tiempo Punto3.c"
         ${COMMON_SOURCES}
 )
 
 add_executable(Punto2
-        "Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c"
+        "Codigo Base Diagrama de Tiempo/X-Punto2/Diagrama De Tiempo Punto2.c"
         ${COMMON_SOURCES}
 )

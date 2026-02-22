@@ -437,12 +437,12 @@ build Punto3: C_EXECUTABLE_LINKER__Punto3_Debug CMakeFiles/Punto3.dir/Codigo_Bas
 
 build cmake_object_order_depends_target_Punto2: phony || .
 
-build CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2/Diagrama_De_Tiempo_Punto2.c.o: C_COMPILER__Punto2_unscanned_Debug /Users/juanandress/Desktop/Dispro/Codigo$ Base$ Diagrama$ de$ Tiempo/X$ -$ Punto2/Diagrama$ De$ Tiempo$ Punto2.c || cmake_object_order_depends_target_Punto2
+build CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto2/Diagrama_De_Tiempo_Punto2.c.o: C_COMPILER__Punto2_unscanned_Debug /Users/juanandress/Desktop/Dispro/Codigo$ Base$ Diagrama$ de$ Tiempo/X-Punto2/Diagrama$ De$ Tiempo$ Punto2.c || cmake_object_order_depends_target_Punto2
   CONFIG = Debug
-  DEP_FILE = CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2/Diagrama_De_Tiempo_Punto2.c.o.d
+  DEP_FILE = CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto2/Diagrama_De_Tiempo_Punto2.c.o.d
   FLAGS = -g -std=gnu11 -arch arm64 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Punto2.dir
-  OBJECT_FILE_DIR = CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2
+  OBJECT_FILE_DIR = CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto2
 
 build CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o: C_COMPILER__Punto2_unscanned_Debug /Users/juanandress/Desktop/Dispro/Codigo$ Base$ Diagrama$ de$ Tiempo/Compuertas$ Logicas$ Y$ Mas/AND_gate.c || cmake_object_order_depends_target_Punto2
   CONFIG = Debug
@@ -515,7 +515,7 @@ build CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_
 #############################################
 # Link the executable Punto2
 
-build Punto2: C_EXECUTABLE_LINKER__Punto2_Debug CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2/Diagrama_De_Tiempo_Punto2.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o
+build Punto2: C_EXECUTABLE_LINKER__Punto2_Debug CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto2/Diagrama_De_Tiempo_Punto2.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/AND_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/XOR_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/FlipFlop_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/Clocks.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/WaveDrom_Format/FormatoWaveDrom.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/OR_gate.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/CambiosDeBase_Bus/Bus_Hexa.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Contadores_Bits/Contadores_4Bit.c.o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/Compuertas_Logicas_Y_Mas/NOT_gate.c.o
   CONFIG = Debug
   FLAGS = -g -arch arm64
   LINK_FLAGS = -Wl,-search_paths_first -Wl,-headerpad_max_install_names

@@ -241,9 +241,9 @@
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
-  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2/Diagrama_De_Tiempo_Punto2.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c\"",
-  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X - Punto2/Diagrama De Tiempo Punto2.c",
-  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X_-_Punto2/Diagrama_De_Tiempo_Punto2.c.o"
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto2/Diagrama_De_Tiempo_Punto2.c.o -c \"/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto2/Diagrama De Tiempo Punto2.c\"",
+  "file": "/Users/juanandress/Desktop/Dispro/Codigo Base Diagrama de Tiempo/X-Punto2/Diagrama De Tiempo Punto2.c",
+  "output": "/Users/juanandress/Desktop/Dispro/cmake-build-debug/CMakeFiles/Punto2.dir/Codigo_Base_Diagrama_de_Tiempo/X-Punto2/Diagrama_De_Tiempo_Punto2.c.o"
 },
 {
   "directory": "/Users/juanandress/Desktop/Dispro/cmake-build-debug",
